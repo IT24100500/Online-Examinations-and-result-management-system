@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Exam:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d23e2bf-470c-4bf4-846f-255445beb10d" name="Changes" comment="check">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/main" />
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="origin/main" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Servlets" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;IT24100500&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/IT24100500/Online-Examinations-and-result-management-system.git&quot;,
+    &quot;accountId&quot;: &quot;3efd71c0-23bb-40cf-b334-5f05c7533956&quot;
+  }
+}</component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2vNoJeFN2IfYJL9CMCmzevxPB4i" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "HTTP Request.generated-requests | #1.executor": "Run",
+    "JavaScript Debug.studentsort.jsp.executor": "Run",
+    "JavaScript Debug.viewstudents.jsp.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Smart Tomcat.Tomcat 10.1.39.executor": "Run",
+    "Tomcat Server.Tomcat 10.1.39.executor": "Run",
+    "git-widget-placeholder": "Servlets",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/IP/proj/Examination/Online-Examinations-and-result-management-system/src/main/webapp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.16699219",
+    "project.structure.side.proportion": "0.6524823",
+    "settings.editor.selected.configurable": "CodeWithMe",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IP\proj\Examination\Online-Examinations-and-result-management-system\src\main\webapp" />
+      <recent name="D:\IP\proj\Examination\Online-Examinations-and-result-management-system\src\main\java\com\jsp\exam\files" />
+      <recent name="D:\IP\proj\Examination\Online-Examinations-and-result-management-system\src\main\webapp\WEB-INF" />
+      <recent name="D:\IP\proj\Examination\Online-Examinations-and-result-management-system\src\main\webapp\logincreds" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IP\proj\Examination\Online-Examinations-and-result-management-system\src\main\webapp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jsp.exam.action" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Online-Examinations-and-result-management-system" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Online-Examinations-and-result-management-system" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tomcat 10.1.39" type="com.poratu.idea.plugins.tomcat">
+      <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
+      <predefined_log_file enabled="true" id="Tomcat Access Log" />
+      <predefined_log_file id="Tomcat Catalina Log" />
+      <predefined_log_file id="Tomcat Manager Log" />
+      <predefined_log_file id="Tomcat Host Manager Log" />
+      <option name="catalinaBase" value="C:\Users\ASUS\.SmartTomcat\Online-Examinations-and-result-management-system\Exam" />
+      <option name="contextPath" value="/Exam" />
+      <option name="docBase" value="$PROJECT_DIR$/src/main/webapp" />
+      <option name="extraClassPath" value="" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/10.1.39" />
+          <option name="path" value="$USER_HOME$/Downloads/Compressed/apache-tomcat-10.1.39/apache-tomcat-10.1.39" />
+          <option name="version" value="10.1.39.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Exam:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.39" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.39" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="StructureViewState">
+    <option name="selectedTab" value="JSP" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d23e2bf-470c-4bf4-846f-255445beb10d" name="Changes" comment="" />
+      <created>1743994821391</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743994821391</updated>
+      <workItem from="1743994822470" duration="775000" />
+      <workItem from="1743995608178" duration="28000" />
+      <workItem from="1744125640458" duration="19741000" />
+      <workItem from="1744159189327" duration="16052000" />
+      <workItem from="1744200021631" duration="9000" />
+      <workItem from="1744200635838" duration="356000" />
+      <workItem from="1744206986746" duration="9097000" />
+      <workItem from="1744259997145" duration="162000" />
+      <workItem from="1744292322552" duration="14547000" />
+      <workItem from="1744335874591" duration="10145000" />
+      <workItem from="1744368583504" duration="2283000" />
+      <workItem from="1744519167938" duration="171000" />
+      <workItem from="1744519350169" duration="503000" />
+      <workItem from="1744519867034" duration="596000" />
+      <workItem from="1744520612854" duration="1014000" />
+      <workItem from="1744521704966" duration="275000" />
+      <workItem from="1744521990872" duration="191000" />
+      <workItem from="1744522190077" duration="1852000" />
+      <workItem from="1744525448730" duration="660000" />
+      <workItem from="1744526124825" duration="550000" />
+      <workItem from="1744526684226" duration="3156000" />
+      <workItem from="1744584948067" duration="520000" />
+      <workItem from="1744590580181" duration="90000" />
+      <workItem from="1745219491082" duration="1316000" />
+      <workItem from="1745228102574" duration="358000" />
+      <workItem from="1745677644358" duration="738000" />
+      <workItem from="1745756010594" duration="313000" />
+      <workItem from="1745950302131" duration="6405000" />
+      <workItem from="1745972072212" duration="5682000" />
+      <workItem from="1745990624448" duration="35000" />
+      <workItem from="1745990666666" duration="3000" />
+      <workItem from="1745991501020" duration="22000" />
+      <workItem from="1746011327386" duration="38000" />
+      <workItem from="1746011381884" duration="565000" />
+      <workItem from="1746524617613" duration="611000" />
+      <workItem from="1746549811203" duration="31000" />
+      <workItem from="1746791413212" duration="7417000" />
+      <workItem from="1746817385429" duration="2307000" />
+      <workItem from="1746891544094" duration="913000" />
+      <workItem from="1746976292919" duration="2776000" />
+      <workItem from="1746979506819" duration="4000" />
+      <workItem from="1746981396073" duration="15000" />
+      <workItem from="1747010393328" duration="341000" />
+      <workItem from="1747010742959" duration="87000" />
+    </task>
+    <task id="LOCAL-00001" summary="checked">
+      <option name="closed" value="true" />
+      <created>1743994848702</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1743994848702</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <option name="closed" value="true" />
+      <created>1743995073637</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743995073637</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test">
+      <option name="closed" value="true" />
+      <created>1743995094719</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743995094719</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Implementing Result.jsp">
+      <option name="closed" value="true" />
+      <created>1744129001280</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1744129001280</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Implementing Result.jsp and it's servlet">
+      <option name="closed" value="true" />
+      <created>1744129687452</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1744129687452</updated>
+    </task>
+    <task id="LOCAL-00006" summary="results.txt">
+      <option name="closed" value="true" />
+      <created>1744129812918</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1744129812918</updated>
+    </task>
+    <task id="LOCAL-00007" summary="In stage of beta testing">
+      <option name="closed" value="true" />
+      <created>1744132806740</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1744132806740</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Redesigning some pages">
+      <option name="closed" value="true" />
+      <created>1744135816548</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1744135816548</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Redesigning some pages">
+      <option name="closed" value="true" />
+      <created>1744137891647</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1744137891647</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Redesigning some pages">
+      <option name="closed" value="true" />
+      <created>1744138078311</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1744138078311</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Redesigning and added more things">
+      <option name="closed" value="true" />
+      <created>1744142957938</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1744142957938</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Redesigning and added more things">
+      <option name="closed" value="true" />
+      <created>1744143971556</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1744143971556</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Redesigning and added more things">
+      <option name="closed" value="true" />
+      <created>1744165449862</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1744165449862</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Redesigning and added more things">
+      <option name="closed" value="true" />
+      <created>1744167764285</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1744167764285</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Redesigning and added more things">
+      <option name="closed" value="true" />
+      <created>1744186624451</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1744186624451</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Added">
+      <option name="closed" value="true" />
+      <created>1744299812950</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1744299812950</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Added">
+      <option name="closed" value="true" />
+      <created>1744305894408</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1744305894408</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Improved UI interractions and fix input and reading .txt errors">
+      <option name="closed" value="true" />
+      <created>1744344701918</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1744344701922</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Improved UI interractions and fix input and reading .txt errors">
+      <option name="closed" value="true" />
+      <created>1744344713038</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1744344713038</updated>
+    </task>
+    <task id="LOCAL-00020" summary="DSA Logics added">
+      <option name="closed" value="true" />
+      <created>1744346517912</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1744346517912</updated>
+    </task>
+    <task id="LOCAL-00021" summary="DSA Logics added">
+      <option name="closed" value="true" />
+      <created>1744519177887</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1744519177887</updated>
+    </task>
+    <task id="LOCAL-00022" summary="DSA Logics added">
+      <option name="closed" value="true" />
+      <created>1744519410555</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1744519410555</updated>
+    </task>
+    <task id="LOCAL-00023" summary="DSA Logics added">
+      <option name="closed" value="true" />
+      <created>1744519722441</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1744519722441</updated>
+    </task>
+    <task id="LOCAL-00024" summary="DSA Logics added">
+      <option name="closed" value="true" />
+      <created>1744525156427</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1744525156427</updated>
+    </task>
+    <task id="LOCAL-00025" summary="DSA Logics added">
+      <option name="closed" value="true" />
+      <created>1744525808834</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1744525808834</updated>
+    </task>
+    <task id="LOCAL-00026" summary="DSA Logics added">
+      <option name="closed" value="true" />
+      <created>1744525858345</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1744525858345</updated>
+    </task>
+    <task id="LOCAL-00027" summary="DSA Logics added">
+      <option name="closed" value="true" />
+      <created>1744526900787</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1744526900787</updated>
+    </task>
+    <task id="LOCAL-00028" summary="check">
+      <option name="closed" value="true" />
+      <created>1744526920555</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1744526920555</updated>
+    </task>
+    <task id="LOCAL-00029" summary="check">
+      <option name="closed" value="true" />
+      <created>1744551516087</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1744551516087</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Wish you a happy and prosperoud new year!!!">
+      <option name="closed" value="true" />
+      <created>1744590608239</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1744590608239</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Added feeback">
+      <option name="closed" value="true" />
+      <created>1745954749636</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1745954749636</updated>
+    </task>
+    <task id="LOCAL-00032" summary="check">
+      <option name="closed" value="true" />
+      <created>1746802049866</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1746802049866</updated>
+    </task>
+    <task id="LOCAL-00033" summary="check">
+      <option name="closed" value="true" />
+      <created>1746977969062</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1746977969062</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="432de921-3c1e-4e3a-b42c-a404a530db8e" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="432de921-3c1e-4e3a-b42c-a404a530db8e">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="checked" />
+    <MESSAGE value="test" />
+    <MESSAGE value="Implementing Result.jsp" />
+    <MESSAGE value="Implementing Result.jsp and it's servlet" />
+    <MESSAGE value="results.txt" />
+    <MESSAGE value="In stage of beta testing" />
+    <MESSAGE value="Redesigning some pages" />
+    <MESSAGE value="Redesigning and added more things" />
+    <MESSAGE value="Added" />
+    <MESSAGE value="Improved UI interractions" />
+    <MESSAGE value="Improved UI interractions and fix input and reading .txt errors" />
+    <MESSAGE value="DSA Logics added" />
+    <MESSAGE value="Wish you a happy and prosperoud new year!!!" />
+    <MESSAGE value="Added feeback" />
+    <MESSAGE value="check" />
+    <option name="LAST_COMMIT_MESSAGE" value="check" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
